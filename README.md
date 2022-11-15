@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; WELCOME MY PROFILE &nbsp;
+  &nbsp;WELCOME MY PROFILE&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
@@ -67,8 +67,8 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/FHRBRO)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/FHRBRO)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/REMEMBER.THIS.NAME.MR.DIPTO)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/REMEMBER.THIS.NAME.MR.DIPTO)
 [![Github](https://img.shields.io/badge/Github-MR.DIPTO-156green?style=for-the-badge&logo=github)](https://github.com/MR-DIPTO-404)
 
 ### ⚙️ &nbsp; Coder And Programmer.

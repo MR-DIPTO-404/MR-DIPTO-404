@@ -24,7 +24,7 @@
 </p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+MR.DIPTO;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND+OKAY;THANK+YOU+EVERYONE;LOVE+YOU+ALL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+MR.DIPTO;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND+OKAY;THANK+YOU+EVERYONE)](https://git.io/typing-svg)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 

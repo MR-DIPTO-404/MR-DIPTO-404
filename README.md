@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Hello+World+I+am+MR.DIPTO;+It's+Not+A+Just+Name+Bro;It's+A+Brand;Thank+You+Everyone;Love+You+All💚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👑Hello+World+I'am+MR.DIPTO👑;+⚡It's+Not+A+Just+Name+Bro⚡;✌️It's+A+Brand✌️;🌳Thank+You+Everyone🌳;💚Love+You+All💚)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000&center=true&vCenter=true&width=420&height=60&lines=HELLO+WORLD%2C+I'M+MR.DIPTO+HERE;TODAY+I+WILL+TELL+YOU+🤗;PLEASE+FOLLOW+MY+GITHUB+🙏;THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg)
 

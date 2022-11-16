@@ -58,7 +58,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👑 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄:- [MR.DIPTO](https://)
+- 👑 𝐅𝐁 𝐏𝐀𝐆𝐄:- [MR.DIPTO](https://)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 

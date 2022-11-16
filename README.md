@@ -85,8 +85,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/REFAT-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=REFAT-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="REFAT SHAHRIAR's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/REFAT-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REFAT-156&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MR-DIPTO-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=DIPTO-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MR.DIPTO's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MR-DIPTO-404/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REFAT-156&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
@@ -98,7 +98,7 @@
 
 ## PROFILE VISITORS
 
-<img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
+<img src="https://profile-counter.glitch.me/MR-DIPTO-404/count.svg" />
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 

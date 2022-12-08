@@ -20,7 +20,7 @@
 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
- <img src="https://profile-counter.glitch.me/REFAT-156/count.svg" />
+ <img src="https://profile-counter.glitch.me/MR-DIPTO-404/count.svg" />
 
 </p>
 
